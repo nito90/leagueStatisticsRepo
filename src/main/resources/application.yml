@@ -1,0 +1,3 @@
+leagues_url: https://api.soccerama.pro/v1.2/standings/season/1181?api_token=HOLCAStI6Z0OfdoPbjdSg5b41Q17w2W5P4WuoIBdC66Z54kUEvGWPIe33UYC
+player_url_prefix: https://api.soccerama.pro/v1.2/players/team/
+player_url_postfix: ?api_token=HOLCAStI6Z0OfdoPbjdSg5b41Q17w2W5P4WuoIBdC66Z54kUEvGWPIe33UYC

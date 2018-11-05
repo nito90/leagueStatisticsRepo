@@ -6,9 +6,9 @@ pipeline {
         git(url: 'https://github.com/nito90/leagueStatisticsRepo.git', branch: 'master')
       }
     }
-    stage('maven ') {
+    stage('Build the module ') {
       steps {
-        sh 'mvn clean install'
+        sh 'mvn clean install -DskipTests'
       }
     }
   }
